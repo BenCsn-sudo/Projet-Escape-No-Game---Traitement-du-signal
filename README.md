@@ -75,12 +75,6 @@ Il s’adresse à toute personne souhaitant comprendre concrètement comment un 
 
 ---
 
-## 🧠 Auteur
-
-Projet réalisé par **[Ton Nom]**, étudiant en développement et passionné par les systèmes numériques et la communication entre machines.
-
----
-
 ## 🏷️ Licence
 
 Ce projet est distribué sous licence MIT — libre à vous de le modifier et de l’améliorer.

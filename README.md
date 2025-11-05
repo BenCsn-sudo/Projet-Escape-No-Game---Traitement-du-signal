@@ -1,6 +1,6 @@
-# 📡 Chaîne de Transmission Numérique – Projet Python
+#  Traitement du signal – Projet Python
 
-## 🧭 Description
+##  Description
 
 Ce projet simule le fonctionnement complet d’une **chaîne de communication numérique**.
 À partir d’un message texte (`"SOS, besoin d’aide ! K57"`), le programme illustre toutes les étapes de transformation du signal, depuis l’écriture jusqu’à la réception et la reconstitution du message.
@@ -9,7 +9,7 @@ Le tout est réalisé dans un **notebook Python interactif** (`livrable.ipynb`),
 
 ---
 
-## ⚙️ Fonctionnement
+##  Fonctionnement
 
 1. ✍️ **Écriture du message**
    Exemple : `"SOS, besoin d’aide ! K57"`
@@ -37,7 +37,7 @@ Le tout est réalisé dans un **notebook Python interactif** (`livrable.ipynb`),
 
 ---
 
-## 🧩 Contenu du dépôt
+##  Contenu du dépôt
 
 * `livrable.ipynb` → Notebook principal du projet
 * `chaine.png`, `agence.png`, `micro.png`, `tablette.png`, etc. → Illustrations pédagogiques
@@ -45,7 +45,7 @@ Le tout est réalisé dans un **notebook Python interactif** (`livrable.ipynb`),
 
 ---
 
-## 🚀 Exécution
+##  Exécution
 
 Assurez-vous d’avoir installé **Jupyter Notebook** et les dépendances Python (comme `numpy` et `matplotlib`).
 
@@ -62,7 +62,7 @@ jupyter nbconvert --to notebook --execute livrable.ipynb
 
 ---
 
-## 🎓 Objectif pédagogique
+##  Objectif pédagogique
 
 Ce projet illustre :
 
@@ -75,6 +75,6 @@ Il s’adresse à toute personne souhaitant comprendre concrètement comment un 
 
 ---
 
-## 🏷️ Licence
+##  Licence
 
 Ce projet est distribué sous licence MIT — libre à vous de le modifier et de l’améliorer.
